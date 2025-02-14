@@ -12,6 +12,10 @@ img{
     border-radius: 30px;
 }
 
+p{
+    color: #000;
+}
+
 footer{
     background-color: #1c43ff;
     color:  #fff;
